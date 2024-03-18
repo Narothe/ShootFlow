@@ -75,4 +75,5 @@ DerivedDataCache/*
 
 # Assets
 
-Content/InfinityBladeEffects/*
+#Content/InfinityBladeEffects/*
+#Content/Asian_Village/*
