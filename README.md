@@ -16,7 +16,9 @@ ShootFlow is a 3rd person perspective game. The game is being developed as a pro
 
 The development of the game was started without any knowledge of the Unreal Engine. After several months of work, many tutorials, reviewed online forums, documentation files, we managed to create the current stage of the game.
 
-## Screenshots of the current version
+## Preview from the current version
+
+[YouTube](https://youtu.be/WLDFEoQtRGA?si=DbeMUAhuEk4P6l2e)
 
 Screenshot 1:
 ![Screenshot_1](./Preview/image1.png)
